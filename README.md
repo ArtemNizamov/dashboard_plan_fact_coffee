@@ -5,8 +5,9 @@
 *   **Бизнес-версия дашборда:** [Ссылка на живой проект](https://datalens.yandex/yhk0hsympba6h)
 *   **Стек технологий:** Yandex DataLens, SQL (T-SQL / MS SQL Server), вычисляемые поля, LOD-выражения (FIXED).
 
-<img width="1787" height="936" alt="image" src="https://github.com/user-attachments/assets/17c543e3-0eb4-4e37-b7f3-cb23d11254f3" />
+![Интерфейс дашборда в Yandex DataLens](
 
+<img width="1788" height="617" alt="image" src="https://github.com/user-attachments/assets/dd430401-fed0-4a0f-8b35-59815469d8ab" />
 
 ---
 
